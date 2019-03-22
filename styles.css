@@ -1,0 +1,26 @@
+.form-container {
+    width: 250px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 3px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
